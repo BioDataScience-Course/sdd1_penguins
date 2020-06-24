@@ -21,3 +21,16 @@ En résumé, un carnet de notes sert à tout consigner alors qu'un rapport scien
 ---->
 
 # Analyses
+
+
+<!--- G.E. consignes
+Cette section peut être subdivisée en plusieurs sous-sections. 
+
+Cette section doit comprendre au minimum 5 et au maximum 10 graphiques corrects et commentés. 
+
+Cette section doit comprendre au minimum 2 et au maximum 5 tableaux corrects et commentés.
+
+Cette section doit comprendre au minimum 3 et au maximum 5 tests statistiques correctement exécutés et commentés.
+---->
+
+

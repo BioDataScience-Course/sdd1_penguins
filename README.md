@@ -1,11 +1,11 @@
-Etude de 3 communautés de pinguins
+Etude de 3 communautés de manchots
 ================
 
 <!--- DO NOT EDIT README.MD. EDIT ONLY README.RMD ----->
 
 ## Contexte
 
-Trois communautés de pinguins ont été étudiées en Antarctique. Les
+Trois communautés de manchots ont été étudiées en Antarctique. Les
 chercheurs ont étudié :
 
   - *Pygoscelis adeliae* (Hombron & Jacquinot, 1841) (LTER and Gorman
@@ -16,9 +16,7 @@ chercheurs ont étudié :
   - *Pygoscelis antarcticus* (Forster, 1781) (LTER and Gorman 2020b)
 
 Pour en apprendre d’avantages, utilisez la référence présente dans la
-bibliographie et les quelques liens suivants :
-
-  - [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
+bibliographie
 
 Les données mise à disposition ont été collectées par [Dr. Kristen
 Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
@@ -29,10 +27,62 @@ membre du [Long Term Ecological Research Network](https://lternet.edu/)
 ## Objectifs
 
 Répondez à la question suivante : **Y a t’il une différence entre ces
-trois espèces de pinguins
-?**
+trois espèces de pinguins ?**
 
 ## Consignes
+
+Proposez un projet portable dont l’ensemble des fichiers sont
+exécutables. L’ensemble de ces fichiers doit être organisé. Soyez
+attentif à donner des noms corrects à vos fichiers.
+
+Ce projet doit contenir au minimum 2 fichiers dont un carnet de notes
+(**penguins\_note.Rmd**) et un rapport scientifique
+(**penguins\_report.Rmd**).
+
+### Carnet de notes
+
+Le carnet de notes doit débuter par une mise en contexte du carnet de
+notes. Chaque carnet de notes doit débuter par une mise en contexte qui
+explique l’objectif de ce dernier. Le carnet de notes contient
+l’ensemble des réflexions sur une thématique précise.
+
+Ce carnet de notes doit comprendre au minimum 5 et maximum 10 graphiques
+corrects et commentés. Ce carnet doit également comprendre au minimum 2
+et maximum 5 tableaux corrects et commentés. Enfin, ce carnet doit
+comprendre au minimum 3 et maximum 5 tests statistiques corrects et
+commentés.
+
+### Rapport scientifique
+
+Le rapport scientifique ne comprend que l’information la plus
+pertinente. Ce rapport doit être synthétique et reprendre les analyses
+les plus utiles du carnet de notes.
+
+Le rapport scientifique doit être compréhensible sans devoir lire le
+carnet de notes.
+
+La section introduction doit comprendre une description sur les 3
+espèces de manchots et le contexte de l’expérience.
+
+Le rapport doit comprendre un but court qui résume la question de
+recherche de ce rapport scientifique.
+
+Le rapport doit comprendre un matériel et méthode complet. Un M\&M
+complet comprend une explication sur les données. Il doit également
+comprendre une description des techniques statistiques employées dans ce
+rapport. Enfin, il doit comprendre une description des outils et des
+versions de ces derniers.
+
+La section résultat de votre rapport scientifique doit comprendre des
+graphiques, des tableaux et des analyses statistiques sélectionnés
+judicieusement. Ils doivent être décrits dans la section résultat. Les
+résultats doivent être uniquement décrits.
+
+La section discussion doit comprendre une discussion de vos résultats.
+Ne confondez pas la description et la discussion de vos analyses.
+
+Utilisez la grille d’évaluation pour vous assurer que votre projet est
+complet.
 
 ## Notes
 
