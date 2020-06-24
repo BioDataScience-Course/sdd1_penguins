@@ -29,6 +29,9 @@ membre du [Long Term Ecological Research Network](https://lternet.edu/)
 Répondez à la question suivante : **Y a t’il une différence entre ces
 trois espèces de pinguins ?**
 
+Vous avez à votre disposition le jeu de données `penguins.rds` et la
+grille d’évaluation `grille.xlsx`.
+
 ## Consignes
 
 Proposez un projet portable dont l’ensemble des fichiers sont

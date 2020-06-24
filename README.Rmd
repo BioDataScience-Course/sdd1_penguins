@@ -28,6 +28,8 @@ Les données mise à disposition ont été collectées par [Dr. Kristen Gorman](
 
 Répondez à la question suivante : **Y a t'il une différence entre ces trois espèces de pinguins ?**
 
+Vous avez à votre disposition le jeu de données `penguins.rds` et la grille d'évaluation `grille.xlsx`. 
+
 ## Consignes
 
 Proposez un projet portable dont l'ensemble des fichiers sont exécutables. L'ensemble de ces fichiers doit être organisé. Soyez attentif à donner des noms corrects à vos fichiers. 
