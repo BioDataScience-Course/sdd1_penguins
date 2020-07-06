@@ -81,8 +81,9 @@ graphiques, des tableaux et des analyses statistiques sélectionnés
 judicieusement. Ils doivent être décrits dans la section résultat. Les
 résultats doivent être uniquement décrits.
 
-La section discussion doit comprendre une discussion de vos résultats.
-Ne confondez pas la description et la discussion de vos analyses.
+La section discussion & conclusion doit comprendre une discussion de vos
+résultats. Ne confondez pas la description et la discussion de vos
+analyses.
 
 Utilisez la grille d’évaluation pour vous assurer que votre projet est
 complet.
