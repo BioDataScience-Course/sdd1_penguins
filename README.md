@@ -27,7 +27,7 @@ membre du [Long Term Ecological Research Network](https://lternet.edu/)
 ## Objectifs
 
 Répondez à la question suivante : **Y a t’il une différence entre ces
-trois espèces de pinguins ?**
+trois espèces de manchots ?**
 
 Vous avez à votre disposition le jeu de données `penguins.rds` et la
 grille d’évaluation `grille.xlsx`.
